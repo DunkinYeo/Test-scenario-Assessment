@@ -1,4 +1,6 @@
 # Test-scenario-Assessment
 Test scenario Assessment for Bear robotics
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQjA7huaDj61xndgn3y-Yx9jjQX1nZa6_Y_bLVhEgMejiWfhSAUh2NRLElA7epR_DPLq6ZHrp5c8QMt/pubhtml?widget=true&amp;headers=false"></iframe>
+Links to Test scenario and TC
+
+https://docs.google.com/spreadsheets/d/1q4vET-nf38tstIDhJNs7Xf8kmW9HJv1aReBZF6XM0ik/edit?usp=sharing
